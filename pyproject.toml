@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "data-modeling-mysql"
+version = "0.1.0"
+description = ""
+authors = ["Joe <joesanchez2393@gmail.com>"]
+readme = "README.md"
+packages = [{include = "bookmodeling"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+freezegun = "^1.5.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
