@@ -1,5 +1,5 @@
 import logging
-from .api_request import BookRequest
+from .api_request import search_google_keywords
 
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(funcName)s - Line %(lineno)d - %(levelname)s - %(message)s')
 handler = logging.StreamHandler()
@@ -9,7 +9,18 @@ logger.setLevel(logging.INFO)
 logger.addHandler(handler)
 
 def main():
-    book_request = BookRequest('flowers', 5,7, 20)
-    book_request.get_data()
+
+    keywords = [
+        'adventure',
+        'exciting',
+        'haunted',
+        'historic',
+        'romantic',
+        'scary',
+        'thrilling'
+    ]
+
+    search_google_keywords(keywords, 2, 10)
+
 
 main()

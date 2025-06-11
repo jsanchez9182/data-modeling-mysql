@@ -209,6 +209,21 @@ pluggy = ">=1.5,<2"
 dev = ["argcomplete", "attrs (>=19.2)", "hypothesis (>=3.56)", "mock", "pygments (>=2.7.2)", "requests", "setuptools", "xmlschema"]
 
 [[package]]
+name = "pytest-freezer"
+version = "0.4.9"
+description = "Pytest plugin providing a fixture interface for spulec/freezegun"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "pytest_freezer-0.4.9-py3-none-any.whl", hash = "sha256:8b6c50523b7d4aec4590b52bfa5ff766d772ce506e2bf4846c88041ea9ccae59"},
+    {file = "pytest_freezer-0.4.9.tar.gz", hash = "sha256:21bf16bc9cc46bf98f94382c4b5c3c389be7056ff0be33029111ae11b3f1c82a"},
+]
+
+[package.dependencies]
+freezegun = ">=1.1"
+pytest = ">=3.6"
+
+[[package]]
 name = "python-dateutil"
 version = "2.9.0.post0"
 description = "Extensions to the standard Python datetime module"
@@ -274,4 +289,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "7966d8caf9b43412af585d1ba8f3b8287443ef1a8ee793aa65766e136b0cf6a3"
+content-hash = "ddbd7c434b7103f3714e150396c30059882f336fe2e7a65668e3a236a81e31e2"
