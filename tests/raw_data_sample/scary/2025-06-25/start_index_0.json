@@ -1,0 +1,79 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "WkuREAAAQBAJ",
+      "etag": "aClLXGkVuP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WkuREAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Scary Book",
+        "authors": [
+          "Thierry Dedieu"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2020",
+        "description": "A perfect blend of silly and scary, this oversized lift-the-flap board book shows children what's hiding inside some creepy creatures. Snakes, bats, and spiders aren't that frightening--but just wait till you see what they're like on the inside! This delightfully ghoulish book is filled to the brim with creatures perfect for some Halloween fun. Whether it's a big bad wolf or a skeletal ghost, each monster is hiding its really horrible side beneath a foldable flap. Lift the foldout on the crab to reveal sharp teeth and tentacle tongues or pull down the flap on the spider to discover its recently caught snacks. Thierry Dedieu's colorful illustrations bring humor and lightheartedness to many spine-chilling creatures. A perfect blend of silly and scary, this big board book helps kids overcome their worries with laughter. Encourage your children to embrace their spooky side with this Halloween treat!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783791374642"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3791374648"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WkuREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WkuREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WkuREAAAQBAJ&dq=scary&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WkuREAAAQBAJ&dq=scary&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Scary_Book.html?hl=&id=WkuREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WkuREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Thierry Dedieu&#39;s colorful illustrations bring humor and lightheartedness to many spine-chilling creatures. A perfect blend of silly and scary, this big board book helps kids overcome their worries with laughter."
+      }
+    }
+  ]
+}

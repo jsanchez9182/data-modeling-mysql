@@ -1,0 +1,104 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Zs7rAwAAQBAJ",
+      "etag": "Oo9Dpi0hiuc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zs7rAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Not Very Scary",
+        "authors": [
+          "Carol Brendler"
+        ],
+        "publisher": "Farrar, Straus and Giroux (BYR)",
+        "publishedDate": "2014-08-12",
+        "description": "Children's author Carol Brendler and illustrator Greg Pizzoli's Not Very Scary follows a young monster as she makes her way to her friend's house for a Halloween party, despite the not very...slightly...okay, pretty scary creatures dogging her along the way. Melly is a brave little monster who is not afraid of anything. She loves surprises, and when her fun-loving cousin invites her over for a big surprise, Melly excitedly sets out for a visit. On her way, she notices skittish skeletons, a coal-black cat, and even ghoulish goblins following her. But Melly is not scared, no she's not! Well, maybe just a teensy bit . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466875371"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466875372"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zs7rAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zs7rAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Zs7rAwAAQBAJ&printsec=frontcover&dq=scary&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Zs7rAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Zs7rAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Zs7rAwAAQBAJ&rdid=book-Zs7rAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Not_Very_Scary-sample-epub.acsm?id=Zs7rAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Not_Very_Scary-sample-pdf.acsm?id=Zs7rAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zs7rAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Children&#39;s author Carol Brendler and illustrator Greg Pizzoli&#39;s Not Very Scary follows a young monster as she makes her way to her friend&#39;s house for a Halloween party, despite the not very...slightly...okay, pretty scary creatures dogging ..."
+      }
+    }
+  ]
+}

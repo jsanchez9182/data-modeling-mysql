@@ -1,0 +1,108 @@
+[
+  {
+    "id": "WkuREAAAQBAJ",
+    "volumeInfo": {
+      "title": "The Scary Book",
+      "subtitle": null,
+      "authors": [
+        "Thierry Dedieu"
+      ],
+      "publisher": "National Geographic Books",
+      "publishedDate": "2020-01-01",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9783791374642"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "3791374648"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 0,
+      "categories": [
+        "Juvenile Fiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "language": "en"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false,
+      "listPrice": null,
+      "retailPrice": null
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "NO_PAGES",
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      }
+    }
+  },
+  {
+    "id": "Zs7rAwAAQBAJ",
+    "volumeInfo": {
+      "title": "Not Very Scary",
+      "subtitle": null,
+      "authors": [
+        "Carol Brendler"
+      ],
+      "publisher": "Farrar, Straus and Giroux (BYR)",
+      "publishedDate": "2014-08-12",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781466875371"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1466875372"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 40,
+      "categories": [
+        "Juvenile Fiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "language": "en"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": "14.99",
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": "14.99",
+        "currencyCode": "USD"
+      }
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true
+      },
+      "pdf": {
+        "isAvailable": true
+      }
+    }
+  }
+]

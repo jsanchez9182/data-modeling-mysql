@@ -174,7 +174,7 @@ class InvalidMockResponse:
         self.reason = "No data."
 
 @pytest.fixture
-def client(freezer, monkeypatch):
+def client(freezer, monkeypatch, tmp_path):
     # Freeze datetime date on 2025-07-05 for testing purposes.
     freezer.move_to('2025-07-05')
 
@@ -186,4 +186,5 @@ def client(freezer, monkeypatch):
     # Avoid delay in tests due to time.sleep()
     monkeypatch.setattr(time, 'sleep', lambda x: None)
 
-    return GoogleBooksClient('flowers', 0, 2, 2)
+    output_dir = str(tmp_path) + '/raw_data'
+    return GoogleBooksClient('flowers', 0, 2, 2, output_dir)

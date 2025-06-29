@@ -9,6 +9,7 @@ packages = [{include = "bookmodeling"}]
 [tool.poetry.dependencies]
 python = "^3.12"
 requests = "^2.32.3"
+pydantic = "^2.11.5"
 
 
 [tool.poetry.group.dev.dependencies]

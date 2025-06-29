@@ -1,0 +1,755 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "R8IArc98DLAC",
+      "etag": "d6G3l/R6ydo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R8IArc98DLAC",
+      "volumeInfo": {
+        "title": "The Oregon Trail",
+        "subtitle": "An Interactive History Adventure",
+        "authors": [
+          "Matt Doeden"
+        ],
+        "publisher": 5,
+        "publishedDate": "2013-07",
+        "description": "\"Describes the journey on the Oregon Trail from three different historical perspectives\"--Provided by publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476536071"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476536074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 113,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R8IArc98DLAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R8IArc98DLAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=R8IArc98DLAC&printsec=frontcover&dq=adventure&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=R8IArc98DLAC&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Oregon_Trail.html?hl=&id=R8IArc98DLAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Oregon_Trail-sample-pdf.acsm?id=R8IArc98DLAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R8IArc98DLAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Describes the journey on the Oregon Trail from three different historical perspectives&quot;--Provided by publisher."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h6FXq10FEQ8C",
+      "etag": "NFh7b5JPdWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h6FXq10FEQ8C",
+      "volumeInfo": {
+        "title": "The Baja Adventure Book",
+        "authors": [
+          "Walt Peterson"
+        ],
+        "publishedDate": "1998",
+        "description": "Rather than simply recycling readily available tourist information, The Baja Adventure Book makes many original contributions to the knowledge about the peninsula. You'll investigate the lava tubes on Isla San Martin; climb El Trono Blanco, Baja's magnificent 1,600-foot big wall; hike to Tinaja de Yubay; backpack in the Sierra de la Laguna and to Arroyo Grande; and explore, fish, and dive the Midriff region, the \"Mexican Galapagos.\" You'll discover the wrecks of the great sailing ship John Elliott Thayer, the paddlewheel steamer Golden City, and the US submarine H-I -- almost-forgotten incidents in Baja's history. Exact locations are provided for Marisla Seamount, the most famous scuba diving location in the Sea of Cortez, and to many other lesser-known locations like Ben's Rock and the Islas de San Benito. Book jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0899972314"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780899972312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Travel"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h6FXq10FEQ8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h6FXq10FEQ8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=h6FXq10FEQ8C&dq=adventure&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=h6FXq10FEQ8C&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Baja_Adventure_Book.html?hl=&id=h6FXq10FEQ8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h6FXq10FEQ8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rather than simply recycling readily available tourist information, The Baja Adventure Book makes many original contributions to the knowledge about the peninsula."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5yt5MAEACAAJ",
+      "etag": "VIVkQp7evXI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5yt5MAEACAAJ",
+      "volumeInfo": {
+        "title": "The Boy's Book of Adventure",
+        "subtitle": "The Little Guidebook for Smart and Resourceful Boys",
+        "authors": [
+          "Michele Lecreux",
+          "Celia Gallais"
+        ],
+        "publisher": "B.E.S. Publishing",
+        "publishedDate": "2013",
+        "description": "An outdoor activity guide for boys outlines nature-themed craft projects while explaining how to develop proficient skills in areas ranging from reading topographic maps and identifying birds to using a compass and providing first-aid for injuries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0764166115"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780764166112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5yt5MAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5yt5MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5yt5MAEACAAJ&dq=adventure&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5yt5MAEACAAJ&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Boy_s_Book_of_Adventure.html?hl=&id=5yt5MAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5yt5MAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book&#39;s wide array of topics and sturdy construction makes it an ideal outdoor companion for hiking and camping excursions. An elastic band bound into the back cover can be stretched over pages and used as a place marker."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lG0G0QEACAAJ",
+      "etag": "jg0K9im9Joc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lG0G0QEACAAJ",
+      "volumeInfo": {
+        "title": "The Cave of Time",
+        "authors": [
+          "Edward Packard"
+        ],
+        "publishedDate": "2025-08-05",
+        "description": "Finally back in print after a 25-year wait! Get lost in time in this iconic interactive book where YOU decide what happens next! Packed with 40 possible endings! Choose Your Own Adventure books-the 4th bestselling children's series of all time-are back and as much fun as you remember. Kids and adults agree, these are the books that get 9- to 12-year-olds reading. YOU are hiking in Snake Canyon when you find yourself lost in the strange, dimly lit Cave of Time. And depending on which of the curving paths you take, you'll emerge into a different thrilling moment in history. Will you be adopted into a band of early humans and hunt down a woolly mammoth? Will you be captured by medieval knights and put on trial before a king? Or will you find yourself a passenger on board the Titanic moments before it hits an iceberg? With every twist and turn you choose, an entirely new adventure awaits you in the past ... or maybe even the future! A generation of readers was enraptured by this instant classic title, and for many it's their first and strongest memory of Choose Your Own Adventure. Long-time fans will eagerly dive into revisiting this gem from the early days of the series, and kid readers will love discovering the Cave of Time as they navigate a maze of choices to discover every path and find the wildest endings.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1933390794"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781933390796"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lG0G0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lG0G0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lG0G0QEACAAJ&dq=adventure&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lG0G0QEACAAJ&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cave_of_Time.html?hl=&id=lG0G0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lG0G0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kids and adults agree, these are the books that get 9- to 12-year-olds reading. YOU are hiking in Snake Canyon when you find yourself lost in the strange, dimly lit Cave of Time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DHBy8OmG8eIC",
+      "etag": "a5G52cpibd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DHBy8OmG8eIC",
+      "volumeInfo": {
+        "title": "A Salty Piece of Land",
+        "authors": [
+          "Jimmy Buffett"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2004-11-30",
+        "description": "Jimmy Buffett, bestselling author of A Pirate Looks at Fifty and hero to parrotheads everywhere, gives readers a humorous adventure set in the Caribbean, involving a lighthouse, a mystery, a wild cast of characters, and more than a few bottles of tequila. It's not on any chart, but the tropical island of Cayo Loco is the perfect place to run away from all your problems. Waking from a ganja buzz on the beach in Tulum, Tully can't believe his eyes when a 142-foot schooner emerges out of the ocean mist. At its helm is Cleopatra Highbourne, the eccentric 101-year-old sea captain who will take him to a lighthouse on a salty piece of land that will change his life forever. From a lovely sunset sail in Punta Margarita to a wild spring-break foam party in San Pedro, Tully encounters an assortment of treasure hunters, rock stars, sailors, seaplane pilots, pirates, and even a ghost or two. \"A tangy tale...Fresh, fanciful, finely imagined...Very possible Buffett's best work to date.\" --New York Times Book Review",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0316743763"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316743761"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 930,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.6.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DHBy8OmG8eIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DHBy8OmG8eIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DHBy8OmG8eIC&dq=adventure&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DHBy8OmG8eIC&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Salty_Piece_of_Land.html?hl=&id=DHBy8OmG8eIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DHBy8OmG8eIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jimmy Buffett, bestselling author of A Pirate Looks at Fifty and hero to parrotheads everywhere, gives readers a humorous adventure set in the Caribbean, involving a lighthouse, a mystery, a wild cast of characters, and more than a few ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DVQ6vgAACAAJ",
+      "etag": "FCtuIDjIx6o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DVQ6vgAACAAJ",
+      "volumeInfo": {
+        "title": "Where Is Joe Merchant?",
+        "subtitle": "A Novel Tale",
+        "authors": [
+          "Jimmy Buffett"
+        ],
+        "publisher": "Harvest Books",
+        "publishedDate": "2003-09-01",
+        "description": "Trevor Kane, the hemorrhoid-ointment heiress, South Seas psychic Desdemona, tabloid journalist Rudy Breno, and renegade seaplane pilot search for the whereabouts of presumed-dead-but-often-sighted rock star Joe Merchant. By the author of Tales from Margaritaville. Reprint. 30,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0156026996"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780156026994"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 459,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DVQ6vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DVQ6vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DVQ6vgAACAAJ&dq=adventure&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DVQ6vgAACAAJ&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Where_Is_Joe_Merchant.html?hl=&id=DVQ6vgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DVQ6vgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By the author of Tales from Margaritaville. Reprint. 30,000 first printing. Where is Joe Merchant? Five years ago, the rock star committed suicide, yet he keeps popping back into the tabloid headlines like a piece of toast."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X90G0QEACAAJ",
+      "etag": "A6WQ+v94Tlc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X90G0QEACAAJ",
+      "volumeInfo": {
+        "title": "The Mystery of Chimney Rock",
+        "authors": [
+          "Edward Packard"
+        ],
+        "publishedDate": "2025-11-04",
+        "description": "Finally back in print after a 25-year wait! Unlock the mystery of Chimney Rock in this iconic interactive book where YOU decide what happens next! Packed with 36 possible endings! Choose Your Own Adventure books-the 4th bestselling children's series of all time-are back and as much fun as you remember. Kids and adults agree, these are the books that get 9- to 12-year-olds reading. YOU are on vacation in Connecticut when you notice a huge, empty stone house at the top of a hill. Your cousins call it \"Chimney Rock,\" and they tell you that no one who goes inside is ever seen again, but you're the curious type, and so you venture inside its crumbling walls. Will you break the curse on Chimney Rock and come back out again a hero? Or will you face any number of grisly ends at the hands of the malevolent forces within? Be careful, the choices YOU make might end in glory, disaster, or certain death! A generation of readers was enraptured by the early classics of Choose Your Own Adventure, and while long-time fans will be thrilled to see its return to the shelves, new kid readers will love to explore one path after another, with every ending telling them a little more about the mystery of what happened at Chimney Rock and what can be done to break the curse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1937133052"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781937133054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X90G0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X90G0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=X90G0QEACAAJ&dq=adventure&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=X90G0QEACAAJ&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mystery_of_Chimney_Rock.html?hl=&id=X90G0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X90G0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Finally back in print after a 25-year wait! Unlock the mystery of Chimney Rock in this iconic interactive book where YOU decide what happens next! Packed with 36 possible endings!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qexu-ZE_6AEC",
+      "etag": "LcfZsjyWZJ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qexu-ZE_6AEC",
+      "volumeInfo": {
+        "title": "Adventure",
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172131537260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 580,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qexu-ZE_6AEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qexu-ZE_6AEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qexu-ZE_6AEC&pg=PA760-IA4&dq=adventure&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qexu-ZE_6AEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qexu-ZE_6AEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qexu-ZE_6AEC&rdid=book-qexu-ZE_6AEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Adventure.epub?id=qexu-ZE_6AEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qexu-ZE_6AEC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eADVENTURE\u003c/b\u003e . But how about the facts ? Where is he ? Is he alive or dead ? Who was he ? What was he ? Apparently there is no one who can , or will , furnish the an- swers to these questions . But among all those who read these lines&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ixNEEQAAQBAJ",
+      "etag": "0tiy/3YQKHQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ixNEEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Routledge International Handbook of Adventure Tourism",
+        "authors": [
+          "Gill Pomfret",
+          "Adele Doran",
+          "Carl Cater"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2025-02-28",
+        "description": "This handbook presents the latest research, industry trends, developments and initiatives in adventure tourism. It explores conceptualisations of adventure tourism, historical and intellectual developments, insights into adventure tourists and the supply side of adventure tourism, and sustainable and inclusive adventure tourism. With contributions from leading international researchers, 28 chapters are organised into four thematic parts to provide a comprehensive overview of adventure tourism. The book presents core topics within the field as well as contemporary themes, debates and challenges within the industry. It adopts a multidisciplinary approach which draws on and applies current research from disciplines including tourism, recreation, sport and psychology to adventure tourism. As such, it presents different ways of examining this form of tourism, expands knowledge on recent developments and discusses the major claims in this field. It explores topics such as instantly accessible adventures, the increasing use of technology by adventure tourists and industry, and the well-being of tourists, destinations and communities. The handbook informs the reader of how literature translates into practice across different adventure tourism operations. It also investigates some of the key challenges affecting the adventure tourism industry and presents practical solutions and initiatives to overcome these. Case studies and vignettes are embedded throughout the handbook to illustrate practitioner perspectives, and each chapter includes learning outcomes and review questions to encourage readers to further consolidate their understanding. The handbook is intended for undergraduates, postgraduates, doctoral candidates and early-career and more established researchers interested in the fields of adventure tourism and related disciplines, such as adventure recreation, outdoor leadership and outdoor education. It is useful for industry organisations, policymakers, professionals and those working towards outdoor activity qualifications. It is also a valuable resource for supportingrelated modules on sustainable tourism, consumer behaviour and marketing in tourism.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781040176481"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1040176488"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 713,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ixNEEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ixNEEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ixNEEQAAQBAJ&pg=PT403&dq=adventure&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ixNEEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ixNEEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 63.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 51.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ixNEEQAAQBAJ&rdid=book-ixNEEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 63990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 51190000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Routledge_International_Handbook_of_Adve-sample-epub.acsm?id=ixNEEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Routledge_International_Handbook_of_Adve-sample-pdf.acsm?id=ixNEEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ixNEEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eadventure\u003c/b\u003e marketing here paves the way for \u003cb\u003eadventure\u003c/b\u003e experiences and living as pirates . Upon arrival one is invited to be woken up by pirates returning from looting on their ship The Black Lady , ready to raise their flag in the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B5c0AAAAMAAJ",
+      "etag": "EXiv4LDCR1c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B5c0AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Adventure",
+        "subtitle": "A Pageant-drama of Life and Chance",
+        "authors": [
+          "Thomas Wood Stevens"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015063540895"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Pageants"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B5c0AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B5c0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=B5c0AAAAMAAJ&pg=PA65&dq=adventure&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B5c0AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B5c0AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=B5c0AAAAMAAJ&rdid=book-B5c0AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Adventure.epub?id=B5c0AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B5c0AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eadventure\u003c/b\u003e open at Your feet . TOM&#39;S GHOST That&#39;s what I never really knew . There were \u003cb\u003eadventures\u003c/b\u003e- but they never came to me . I wanted them , and they never came . I have no other charge against you , Fates . Unless it is that I was&nbsp;..."
+      }
+    }
+  ]
+}

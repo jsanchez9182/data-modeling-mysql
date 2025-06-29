@@ -1,0 +1,805 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "R8IArc98DLAC",
+      "etag": "+N+ilvTwVAo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R8IArc98DLAC",
+      "volumeInfo": {
+        "title": "The Oregon Trail",
+        "subtitle": "An Interactive History Adventure",
+        "authors": [
+          "Matt Doeden"
+        ],
+        "publisher": "Capstone",
+        "publishedDate": "2013-07",
+        "description": "\"Describes the journey on the Oregon Trail from three different historical perspectives\"--Provided by publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476536071"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476536074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 113,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R8IArc98DLAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R8IArc98DLAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=R8IArc98DLAC&printsec=frontcover&dq=adventure&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=R8IArc98DLAC&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Oregon_Trail.html?hl=&id=R8IArc98DLAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Oregon_Trail-sample-pdf.acsm?id=R8IArc98DLAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R8IArc98DLAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Describes the journey on the Oregon Trail from three different historical perspectives&quot;--Provided by publisher."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h6FXq10FEQ8C",
+      "etag": "JATi5qD6V2M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h6FXq10FEQ8C",
+      "volumeInfo": {
+        "title": "The Baja Adventure Book",
+        "authors": [
+          "Walt Peterson"
+        ],
+        "publishedDate": "1998",
+        "description": "Rather than simply recycling readily available tourist information, The Baja Adventure Book makes many original contributions to the knowledge about the peninsula. You'll investigate the lava tubes on Isla San Martin; climb El Trono Blanco, Baja's magnificent 1,600-foot big wall; hike to Tinaja de Yubay; backpack in the Sierra de la Laguna and to Arroyo Grande; and explore, fish, and dive the Midriff region, the \"Mexican Galapagos.\" You'll discover the wrecks of the great sailing ship John Elliott Thayer, the paddlewheel steamer Golden City, and the US submarine H-I -- almost-forgotten incidents in Baja's history. Exact locations are provided for Marisla Seamount, the most famous scuba diving location in the Sea of Cortez, and to many other lesser-known locations like Ben's Rock and the Islas de San Benito. Book jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0899972314"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780899972312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Travel"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h6FXq10FEQ8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h6FXq10FEQ8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=h6FXq10FEQ8C&dq=adventure&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=h6FXq10FEQ8C&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Baja_Adventure_Book.html?hl=&id=h6FXq10FEQ8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h6FXq10FEQ8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rather than simply recycling readily available tourist information, The Baja Adventure Book makes many original contributions to the knowledge about the peninsula."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5yt5MAEACAAJ",
+      "etag": "ulOr8QRwnWo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5yt5MAEACAAJ",
+      "volumeInfo": {
+        "title": "The Boy's Book of Adventure",
+        "subtitle": "The Little Guidebook for Smart and Resourceful Boys",
+        "authors": [
+          "Michele Lecreux",
+          "Celia Gallais"
+        ],
+        "publisher": "B.E.S. Publishing",
+        "publishedDate": "2013",
+        "description": "An outdoor activity guide for boys outlines nature-themed craft projects while explaining how to develop proficient skills in areas ranging from reading topographic maps and identifying birds to using a compass and providing first-aid for injuries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0764166115"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780764166112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5yt5MAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5yt5MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5yt5MAEACAAJ&dq=adventure&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5yt5MAEACAAJ&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Boy_s_Book_of_Adventure.html?hl=&id=5yt5MAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5yt5MAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book&#39;s wide array of topics and sturdy construction makes it an ideal outdoor companion for hiking and camping excursions. An elastic band bound into the back cover can be stretched over pages and used as a place marker."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qexu-ZE_6AEC",
+      "etag": "a/0xTzdnnP8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qexu-ZE_6AEC",
+      "volumeInfo": {
+        "title": "Adventure",
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172131537260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 580,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qexu-ZE_6AEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qexu-ZE_6AEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qexu-ZE_6AEC&pg=PA760-IA4&dq=adventure&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qexu-ZE_6AEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qexu-ZE_6AEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qexu-ZE_6AEC&rdid=book-qexu-ZE_6AEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Adventure.epub?id=qexu-ZE_6AEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qexu-ZE_6AEC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eADVENTURE\u003c/b\u003e . But how about the facts ? Where is he ? Is he alive or dead ? Who was he ? What was he ? Apparently there is no one who can , or will , furnish the an- swers to these questions . But among all those who read these lines&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ixNEEQAAQBAJ",
+      "etag": "hXfX4kNIVZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ixNEEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Routledge International Handbook of Adventure Tourism",
+        "authors": [
+          "Gill Pomfret",
+          "Adele Doran",
+          "Carl Cater"
+        ],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2025-02-28",
+        "description": "This handbook presents the latest research, industry trends, developments and initiatives in adventure tourism. It explores conceptualisations of adventure tourism, historical and intellectual developments, insights into adventure tourists and the supply side of adventure tourism, and sustainable and inclusive adventure tourism. With contributions from leading international researchers, 28 chapters are organised into four thematic parts to provide a comprehensive overview of adventure tourism. The book presents core topics within the field as well as contemporary themes, debates and challenges within the industry. It adopts a multidisciplinary approach which draws on and applies current research from disciplines including tourism, recreation, sport and psychology to adventure tourism. As such, it presents different ways of examining this form of tourism, expands knowledge on recent developments and discusses the major claims in this field. It explores topics such as instantly accessible adventures, the increasing use of technology by adventure tourists and industry, and the well-being of tourists, destinations and communities. The handbook informs the reader of how literature translates into practice across different adventure tourism operations. It also investigates some of the key challenges affecting the adventure tourism industry and presents practical solutions and initiatives to overcome these. Case studies and vignettes are embedded throughout the handbook to illustrate practitioner perspectives, and each chapter includes learning outcomes and review questions to encourage readers to further consolidate their understanding. The handbook is intended for undergraduates, postgraduates, doctoral candidates and early-career and more established researchers interested in the fields of adventure tourism and related disciplines, such as adventure recreation, outdoor leadership and outdoor education. It is useful for industry organisations, policymakers, professionals and those working towards outdoor activity qualifications. It is also a valuable resource for supportingrelated modules on sustainable tourism, consumer behaviour and marketing in tourism.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781040176481"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1040176488"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 713,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ixNEEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ixNEEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ixNEEQAAQBAJ&pg=PA1950&dq=adventure&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ixNEEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ixNEEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 63.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 51.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ixNEEQAAQBAJ&rdid=book-ixNEEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 63990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 51190000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Routledge_International_Handbook_of_Adve-sample-epub.acsm?id=ixNEEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Routledge_International_Handbook_of_Adve-sample-pdf.acsm?id=ixNEEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ixNEEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eadventure\u003c/b\u003e tourism. It explores conceptualisations of \u003cb\u003eadventure\u003c/b\u003e tourism, historical and intellectual developments, insights into \u003cb\u003eadventure\u003c/b\u003e tourists and the supply side of \u003cb\u003eadventure\u003c/b\u003e tourism, and sustainable and inclusive \u003cb\u003eadventure\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "822aEAAAQBAJ",
+      "etag": "FED4zRMs72U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/822aEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Randy",
+        "authors": [
+          "Andrew Zellgert"
+        ],
+        "publisher": "Andrew Zellgert",
+        "publishedDate": "2022-12-13",
+        "description": "A mysterious restaurant… An evil corporate… Hidden threats in the dark… Randy is what many would call an ‘ordinary’ person until he embarks on an adventure with The Bread Company. After many skirmishes with life and death, will he finally come to grips with his true purpose in life? Or will he sink down into the depths of the Beneath? Never to be seen again? Will he thwart the evil that encapsulates every moment of time itself? Or will he parish in an apocalyptic disaster of astronomical proportions? Find out in this exciting sci-fi adventure!",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=822aEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=822aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=822aEAAAQBAJ&pg=PT4&dq=adventure&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=822aEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=822aEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=822aEAAAQBAJ&rdid=book-822aEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Adventures_of_Randy-sample-epub.acsm?id=822aEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Adventures_of_Randy-sample-pdf.acsm?id=822aEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=822aEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eAdventure\u003c/b\u003e Log - Worry \u003cb\u003eAdventure\u003c/b\u003e Log - The Family \u003cb\u003eAdventure\u003c/b\u003e Log - Procrastination \u003cb\u003eAdventure\u003c/b\u003e Log - Accountability \u003cb\u003eAdventure\u003c/b\u003e Log - Probability \u003cb\u003eAdventure\u003c/b\u003e Log - Hatsmen \u003cb\u003eAdventure\u003c/b\u003e Log - Prison \u003cb\u003eAdventure\u003c/b\u003e Log - The Dragon ... \u003cb\u003eAdventure\u003c/b\u003e Log -&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B5c0AAAAMAAJ",
+      "etag": "ylus+0lxwuM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B5c0AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Adventure",
+        "subtitle": "A Pageant-drama of Life and Chance",
+        "authors": [
+          "Thomas Wood Stevens"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015063540895"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Pageants"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B5c0AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B5c0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=B5c0AAAAMAAJ&pg=PA65&dq=adventure&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B5c0AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B5c0AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=B5c0AAAAMAAJ&rdid=book-B5c0AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Adventure.epub?id=B5c0AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B5c0AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eadventure\u003c/b\u003e open at Your feet . TOM&#39;S GHOST That&#39;s what I never really knew . There were \u003cb\u003eadventures\u003c/b\u003e- but they never came to me . I wanted them , and they never came . I have no other charge against you , Fates . Unless it is that I was&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E6aSQv8HZ68C",
+      "etag": "YOWD83Sth70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E6aSQv8HZ68C",
+      "volumeInfo": {
+        "title": "Image, Eye and Art in Calvino",
+        "subtitle": "Writing Visibility",
+        "authors": [
+          "Birgitte Grundtvig",
+          "Martin L. McLaughlin",
+          "Lene Waage Petersen"
+        ],
+        "publisher": "MHRA",
+        "publishedDate": "2007",
+        "description": "Few recent writers have been as interested in the cross-over between texts and visual art as Italo Calvino (1923-85). Involved for most of his life in the publishing industry, he took as much interest in the visual as in the textual aspects of his own and other writers' books. In this volume twenty international Calvino experts, including Barenghi, Battistini, Belpoliti, Hofstadter, Ricci, Scarpa and others, consider the many facets of the interplay between the visual and textual in Calvino's works, from the use of colours in his fiction to the influence of cartoons, from the graphic qualities of the book covers themselves to the significance of photography and landscape in his fiction and non-fiction. The volume is appropriately illustrated with images evoked by Calvino's major texts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904350590"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1904350593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E6aSQv8HZ68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E6aSQv8HZ68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=E6aSQv8HZ68C&pg=PA28&dq=adventure&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=E6aSQv8HZ68C&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Image_Eye_and_Art_in_Calvino.html?hl=&id=E6aSQv8HZ68C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E6aSQv8HZ68C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eAdventure\u003c/b\u003e of a Short-Sighted Man&#39;, &#39;The \u003cb\u003eAdventure\u003c/b\u003e of a Wife&#39;, &#39;The \u003cb\u003eAdventure\u003c/b\u003e of the Married Couple&#39;), and at two of the 1970 edition, again leaving out those stories that have little concern with colour or landscape (&#39;The \u003cb\u003eAdventure\u003c/b\u003e of a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AfFyAwAAQBAJ",
+      "etag": "cHm07PiIikk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AfFyAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Handbook of Group Counseling and Psychotherapy",
+        "authors": [
+          "Janice L. DeLucia-Waack",
+          "Deborah A. Gerrity",
+          "Cynthia R. Kalodner",
+          "Maria Riva"
+        ],
+        "publisher": "SAGE Publications",
+        "publishedDate": "2003-12-23",
+        "description": "The Handbook of Group Counseling and Psychotherapy is a comprehensive reference guide for group practitioners and researchers alike. Each chapter reviews the literature and current research as well as offers suggestions for practice in the psycho educational arena, counseling, and therapy groups. The handbook encourages the notion that the field is improved through increased collaboration between researchers and practitioners. Through a review of cutting-edge research and practice, the handbook includes: 48 chapters by renowned experts in group work The history and theory of group work Topics across the lifespan An entire section on multicultural issues A variety of clinical problems and settings Appendices include the Association for Specialists in Group Work Training Standards, Best Practice Standards, and Principles for Diversity-Competent Group Workers The Handbook of Group Counseling and Psychotherapy, the most comprehensive reference devoted to this rapidly growing field, is essential for graduate students, academics, researchers, professionals, and librarians serving the group therapy community.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452262970"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452262977"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 745,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AfFyAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AfFyAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AfFyAwAAQBAJ&pg=PA594&dq=adventure&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AfFyAwAAQBAJ&dq=adventure&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Group_Counseling_and_Psychot.html?hl=&id=AfFyAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Handbook_of_Group_Counseling_and_Psychot-sample-pdf.acsm?id=AfFyAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AfFyAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003eadventure\u003c/b\u003e therapy, (b) provide examples of \u003cb\u003eadventure\u003c/b\u003e activities used in group work, (c) outline the rationale behind \u003cb\u003eadventure\u003c/b\u003e therapy processes, (d) present a case study depict- ing \u003cb\u003eadventure\u003c/b\u003e therapy assessment techniques and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tchEDwAAQBAJ",
+      "etag": "TRjQGSD0yN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tchEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Jed and the Hens",
+        "authors": [
+          "Carl Sommer"
+        ],
+        "publisher": "Advance Publishing",
+        "publishedDate": "2018-03-01",
+        "description": "When Ted and Jan take a trip to the farm, their pet dog, Jed, goes with them. Havoc ensues, as Jed tosses his food around in the car and chases the chickens at the farm. Detailed, brightly colored illustrations lead new readers through the lively story with context clues. Similar beginning and ending word sounds that teach word recognition, and a few longer sentences begin to build children’s reading skills. Target Reader 7 is part of Phonics Adventure's systematic, leveled reading program.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781624743313"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1624743315"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tchEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tchEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tchEDwAAQBAJ&pg=PA17&dq=adventure&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tchEDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tchEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tchEDwAAQBAJ&rdid=book-tchEDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Jed_and_the_Hens-sample-epub.acsm?id=tchEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Jed_and_the_Hens-sample-pdf.acsm?id=tchEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tchEDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Carl Sommer. Sommer Learning Phonics \u003cb\u003eAdventure\u003c/b\u003e Target Readers PHONICS \u003cb\u003eADVENTURE\u003c/b\u003e Zag and the Cat Target Reader 1 By Carl Sommer Illustrated by Carlos Calle and Jorge Mercado PHONICS \u003cb\u003eADVENTURE\u003c/b\u003e The Funny Hat PHONICS \u003cb\u003eADVENTURE\u003c/b\u003e Play With Us&nbsp;..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "etag": "gKPNFn1PewM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kAK1p91zJEwC",
+      "volumeInfo": {
+        "title": "Haunted Places",
+        "subtitle": "The National Directory : Ghostly Abodes, Sacred Sites, UFO Landings, and Other Supernatural Locations",
+        "authors": [
+          "Dennis William Hauck"
+        ],
+        "publishedDate": "2002",
+        "description": "Describes over 2,000 sites of supernatural occurances in the United States, including places visited by ghosts, UFOs, and unusual creatures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0142002348"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780142002346"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.10.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kAK1p91zJEwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kAK1p91zJEwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kAK1p91zJEwC&pg=PA432&dq=haunted&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kAK1p91zJEwC&dq=haunted&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Haunted_Places.html?hl=&id=kAK1p91zJEwC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kAK1p91zJEwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ehaunted\u003c/b\u003e by two hundred years worth of ghosts . Cloudlike forms have been seen and pho- tographed in the great Center Hall . The Lafayette Bed- room , on the second floor in the south wing , is \u003cb\u003ehaunted\u003c/b\u003e by the ghost of fifteen - year&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n8cZ2-Mg3JUC",
+      "etag": "uIfOvLvUxVw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n8cZ2-Mg3JUC",
+      "volumeInfo": {
+        "title": "Haunted Houses and Family Ghosts of Kentucky",
+        "authors": [
+          "William Montell"
+        ],
+        "publisher": "University Press of Kentucky",
+        "publishedDate": "2001-09-21",
+        "description": "The bestselling author of \"Ghosts Across Kentucky\" now presents an all-new collection of amazing ghost stories of the state.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.12.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n8cZ2-Mg3JUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n8cZ2-Mg3JUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=n8cZ2-Mg3JUC&pg=PA102&dq=haunted&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=n8cZ2-Mg3JUC&dq=haunted&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Haunted_Houses_and_Family_Ghosts_of_Kent.html?hl=&id=n8cZ2-Mg3JUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n8cZ2-Mg3JUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "William Montell. 87. &quot; The. \u003cb\u003eHaunted\u003c/b\u003e. Abbot. House. &quot; Elliott. County. Kentucky Highway 32 crosses into Elliott County out of Rowan , and runs on into Lawrence County . Along this highway here in Elliott County , near Newfoundland , is Brown&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xWi5KAGHEc0C",
+      "etag": "nebP5PqJuWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xWi5KAGHEc0C",
+      "volumeInfo": {
+        "subtitle": "A Definitive Collection of North American Ghost Stories",
+        "authors": [
+          "Michael Norman"
+        ],
+        "publisher": "Macmillan",
+        "description": "Covering the places, the people, and the things that belong to the earthbound realm of the fantastic, this latest volume of the Haunted America series contains supernatural folklore that has been passed down for generations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0765321599"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765321596"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xWi5KAGHEc0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xWi5KAGHEc0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xWi5KAGHEc0C&printsec=frontcover&dq=haunted&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xWi5KAGHEc0C&dq=haunted&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Haunted_Homeland.html?hl=&id=xWi5KAGHEc0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xWi5KAGHEc0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Covering the places, the people, and the things that belong to the earthbound realm of the fantastic, this latest volume of the Haunted America series contains supernatural folklore that has been passed down for generations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H_fYEZjRb88C",
+      "etag": "j6XpMBa8LuQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H_fYEZjRb88C",
+      "volumeInfo": {
+        "title": "Historic Haunted America",
+        "authors": [
+          "Michael Norman",
+          "Beth Scott"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2007-09-18",
+        "description": "Continuing the success of the nationally acclaimed Haunted America, Historic Haunted America is a further investigation into North American ghost legends. This chilling collection documents yesterday's and today's most terrifying hauntings in the United States and Canada in more than seventy-five shocking stories! At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466805156"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466805153"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 906,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.10.11.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H_fYEZjRb88C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H_fYEZjRb88C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=H_fYEZjRb88C&printsec=frontcover&dq=haunted&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=H_fYEZjRb88C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=H_fYEZjRb88C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=H_fYEZjRb88C&rdid=book-H_fYEZjRb88C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H_fYEZjRb88C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This chilling collection documents yesterday&#39;s and today&#39;s most terrifying hauntings in the United States and Canada in more than seventy-five shocking stories!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xI6TvenGlHYC",
+      "etag": "5CITNMO0KyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xI6TvenGlHYC",
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xI6TvenGlHYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dale Bailey traces the haunted house tale from its origins in English gothic fiction to the paperback potboilers of the present, highlighting the unique significance of the house in the domestic, economic, and social ideologies of our ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9DQnEAAAQBAJ",
+      "etag": "VV2WCB0DtJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9DQnEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Haunted Homes",
+        "authors": [
+          "Dahlia Schweitzer"
+        ],
+        "publisher": "Rutgers University Press",
+        "publishedDate": "2021-06-18",
+        "description": "Haunted Homes is a short but groundbreaking study of homes in horror film and television. While haunted houses can be fun and thrilling, Hollywood horror tends to focus on haunted homes, places where the suburban American dream of safety and comfort has turned into a nightmare. From classic movies like The Old Dark House to contemporary works like Hereditary and the Netflix series The Haunting of Hill House, Dahlia Schweitzer explores why haunted homes have become a prime stage for dramatizing anxieties about family, gender, race, and economic collapse. She traces how the haunted home film was intertwined with the expansion of American suburbia, but also explores works like The Witch and The Babadook, which transport the genre to different times and places. This lively and readable study reveals how and why an increasing number of films imagine that home is where the horror is. Watch a video of the author discussing the topic Haunted Homes (https://youtu.be/_irTEfvtZfQ).",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9DQnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9DQnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9DQnEAAAQBAJ&printsec=frontcover&dq=haunted&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9DQnEAAAQBAJ&dq=haunted&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Haunted_Homes.html?hl=&id=9DQnEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Haunted_Homes-sample-epub.acsm?id=9DQnEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Haunted_Homes-sample-pdf.acsm?id=9DQnEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9DQnEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From classic movies like The Old Dark House to contemporary works like Hereditary and the Netflix series The Haunting of Hill House, Dahlia Schweitzer explores why haunted homes have become a prime stage for dramatizing anxieties about ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "etag": "NwlENTB6ch8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zizeUF28QKIC",
+      "volumeInfo": {
+        "title": "Howard's House is Haunted",
+        "authors": [
+          "Maureen Bayless"
+        ],
+        "publisher": "Richmond Hill, Ont. : Scholastic Canada",
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "059074559X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780590745598"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zizeUF28QKIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zizeUF28QKIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zizeUF28QKIC&q=haunted&dq=haunted&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zizeUF28QKIC&dq=haunted&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Howard_s_House_is_Haunted.html?hl=&id=zizeUF28QKIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zizeUF28QKIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3O7FseMcW2EC",
+      "etag": "ri6uZEf6gu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3O7FseMcW2EC",
+      "volumeInfo": {
+        "title": "Haunted Heritage",
+        "subtitle": "A Definitive Collection of North American Ghost Stories",
+        "authors": [
+          "Michael Norman",
+          "Beth Scott"
+        ],
+        "publisher": "Forge Books",
+        "publishedDate": "2002-10-18",
+        "description": "Heralded across the country in newspapers ranging from The New York Times Book Review and The Baltimore Sun to The Minneapolis Star Tribune and The Denver Post, and in magazines as diverse as Chicago and Library Journal, the Haunted America series has attracted widespread acclaim as a virtual spectral travelogue through the byways and highways of North America. Haunted Heritage: A Definitive Collection of American Ghost Stories, the latest volume in the series. Continues its recounting of supernatural explorations, collecting a comprehensive compendium of ghostly tales, not penned by fictioneers such as Poe and King, but passed on by word of mouth and preserved by memory as actual windows on our nation's haunted past. The authors have compiled an astounding collection of American ghost stories. Based on interviews with eyewitnesses, unearthed ancient archives, overheard tales, and actual paranormal visitations and explorations. From the \"Haunts of Ivy,\" a survey of university ghosts, to an overview of spectral lights, from revolutionary spirits in New England to beyond the grave occurrences in the Badlands, Haunted Heritage is the ghost story collection for all of North America. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429914123"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1429914122"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3O7FseMcW2EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3O7FseMcW2EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3O7FseMcW2EC&printsec=frontcover&dq=haunted&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3O7FseMcW2EC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3O7FseMcW2EC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3O7FseMcW2EC&rdid=book-3O7FseMcW2EC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3O7FseMcW2EC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Haunted Heritage: A Definitive Collection of American Ghost Stories, the latest volume in the series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VEZfEQAAQBAJ",
+      "etag": "LYB5LDKGivY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VEZfEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Haunted America",
+        "authors": [
+          "Michael Norman",
+          "Beth Scott"
+        ],
+        "publisher": "Macmillan + ORM",
+        "publishedDate": "2007-09-18",
+        "description": "Haunted America takes you on a grand tour of ghostly hauntings through the U.S. and Canada, sweeping from terrifying battle-field specters at Little Bighorn to a vaudeville palace in Tampa, from ghostly apparitions in President Garfield's home in Ohio to the White House in Washington, DC. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466805149"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466805145"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 771,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VEZfEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VEZfEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VEZfEQAAQBAJ&printsec=frontcover&dq=haunted&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VEZfEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VEZfEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VEZfEQAAQBAJ&rdid=book-VEZfEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Haunted_America-sample-epub.acsm?id=VEZfEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Haunted_America-sample-pdf.acsm?id=VEZfEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VEZfEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Haunted America takes you on a grand tour of ghostly hauntings through the U.S. and Canada, sweeping from terrifying battle-field specters at Little Bighorn to a vaudeville palace in Tampa, from ghostly apparitions in President Garfield&#39;s ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kt3C3YT-MbUC",
+      "etag": "XFygMW5g0Wk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kt3C3YT-MbUC",
+      "volumeInfo": {
+        "title": "World's Most Haunted Places",
+        "publisher": "The Rosen Publishing Group, Inc",
+        "publishedDate": "2009-01-15",
+        "description": "Describes paranormal activity at haunted locations from the Ballygally Castle Hotel in Ballgally, Ireland to Hibbing High School in Hibbing, Minnesota.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781435851788"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1435851781"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kt3C3YT-MbUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kt3C3YT-MbUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kt3C3YT-MbUC&pg=PA160&dq=haunted&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kt3C3YT-MbUC&dq=haunted&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/World_s_Most_Haunted_Places.html?hl=&id=kt3C3YT-MbUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/World_s_Most_Haunted_Places-sample-epub.acsm?id=kt3C3YT-MbUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/World_s_Most_Haunted_Places-sample-pdf.acsm?id=kt3C3YT-MbUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kt3C3YT-MbUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003ehaunted\u003c/b\u003e painting, we&#39;re being quite literal. Maybe the painter&#39;s spirit feels some anguish about the brushstrokes still needed to complete the artwork. “I think that has something to do with the way people feel about this little corner&nbsp;..."
+      }
+    }
+  ]
+}
