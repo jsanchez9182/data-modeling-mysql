@@ -10,12 +10,19 @@ packages = [{include = "bookmodeling"}]
 python = "^3.12"
 requests = "^2.32.3"
 pydantic = "^2.11.5"
+sqlalchemy = "^2.0.41"
+pymysql = "^1.1.1"
+sqlalchemy-utils = "^0.41.2"
+cryptography = "^45.0.4"
 
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.5"
 freezegun = "^1.5.2"
 pytest-freezer = "^0.4.9"
+
+[tool.poetry.scripts]
+bookmodeling = 'bookmodeling.__main__:main'
 
 [build-system]
 requires = ["poetry-core"]

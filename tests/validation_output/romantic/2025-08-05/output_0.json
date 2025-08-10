@@ -1,31 +1,31 @@
 [
   {
-    "id": "WkuREAAAQBAJ",
+    "id": "Af_aMKNJ2oEC",
     "volumeInfo": {
-      "title": "The Scary Book",
-      "subtitle": null,
+      "title": "The Complete Guide to Everything Romantic",
+      "subtitle": "A Book for Lovers",
       "authors": [
-        "Thierry Dedieu"
+        "Michael Newman"
       ],
-      "publisher": "National Geographic Books",
-      "publishedDate": "2020-01-01",
+      "publisher": "Carol Publishing Corporation",
+      "publishedDate": "1995-01-01",
       "industryIdentifiers": [
         {
-          "type": "ISBN_13",
-          "identifier": "9783791374642"
+          "type": "ISBN_10",
+          "identifier": "0806515473"
         },
         {
-          "type": "ISBN_10",
-          "identifier": "3791374648"
+          "type": "ISBN_13",
+          "identifier": "9780806515472"
         }
       ],
-      "pageCount": 0,
+      "pageCount": 248,
       "categories": [
-        "Juvenile Fiction"
+        "Family & Relationships"
       ],
       "averageRating": null,
       "ratingsCount": null,
-      "maturityRating": "NOT_MATURE",
+      "maturityRating": "MATURE",
       "language": "en"
     },
     "saleInfo": {
@@ -48,28 +48,28 @@
     }
   },
   {
-    "id": "Zs7rAwAAQBAJ",
+    "id": "4OfeCgAAQBAJ",
     "volumeInfo": {
-      "title": "Not Very Scary",
+      "title": "1001 Ways to Be Romantic",
       "subtitle": null,
       "authors": [
-        "Carol Brendler"
+        "Michael Newman"
       ],
-      "publisher": "Farrar, Straus and Giroux (BYR)",
-      "publishedDate": "2014-08-12",
+      "publisher": "Sourcebooks, Inc.",
+      "publishedDate": "2010-01-01",
       "industryIdentifiers": [
         {
           "type": "ISBN_13",
-          "identifier": "9781466875371"
+          "identifier": "9781402244094"
         },
         {
           "type": "ISBN_10",
-          "identifier": "1466875372"
+          "identifier": "1402244096"
         }
       ],
-      "pageCount": 40,
+      "pageCount": 456,
       "categories": [
-        "Juvenile Fiction"
+        "Family & Relationships"
       ],
       "averageRating": null,
       "ratingsCount": null,
@@ -78,21 +78,17 @@
     },
     "saleInfo": {
       "country": "US",
-      "saleability": "FOR_SALE",
-      "isEbook": true,
-      "listPrice": {
-        "amount": "14.99"
-      },
-      "retailPrice": {
-        "amount": "14.99"
-      }
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false,
+      "listPrice": null,
+      "retailPrice": null
     },
     "accessInfo": {
       "country": "US",
       "viewability": "PARTIAL",
       "textToSpeechPermission": "ALLOWED",
       "epub": {
-        "isAvailable": true
+        "isAvailable": false
       },
       "pdf": {
         "isAvailable": true

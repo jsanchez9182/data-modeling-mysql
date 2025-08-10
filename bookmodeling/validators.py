@@ -1,17 +1,17 @@
-import datetime
 from pathlib import Path
 
-from pydantic import BaseModel, BeforeValidator, ValidationError
+from pydantic import BaseModel, BeforeValidator, ValidationError, Field
 from typing import Optional, List, Annotated
 from datetime import date
 from decimal import Decimal
 import json
 import logging
-
 from bookmodeling.exceptions import MissingDataException, ValidationPercentException, MissingDirectoriesException, \
     MissingFilesException
+from bookmodeling.utils import get_latest_dir
 
 logger = logging.getLogger(__name__)
+
 
 def add_day(val):
     if type(val) == str:
@@ -22,33 +22,27 @@ def add_day(val):
 
     return val
 
+
 # If date is missing -mm and/or -dd portion of yyyy-mm-dd they are initialized to 01.
 InitializedDate = Annotated[date, BeforeValidator(add_day)]
 
 
 class IndustryIdentifier(BaseModel):
-    type: str
-    identifier: str
-
-
-class ReadingModes(BaseModel):
-    text: bool
-    image: bool
+    type: str = Field(max_length=8, default=None)
+    identifier: str = Field(max_length=40, default=None)
 
 
 class ListPrice(BaseModel):
     amount: Decimal
-    currencyCode: str
 
 
 class RetailPrice(BaseModel):
     amount: Decimal
-    currencyCode: str
 
 
 class SaleInfo(BaseModel):
-    country: str
-    saleability: str
+    country: str = Field(max_length=5, default=None)
+    saleability: str = Field(max_length=20, default=None)
     isEbook: bool
     listPrice: Optional[ListPrice] = None
     retailPrice: Optional[RetailPrice] = None
@@ -63,25 +57,29 @@ class PDF(BaseModel):
 
 
 class AccessInfo(BaseModel):
-    country: str
-    viewability: str
-    textToSpeechPermission: str
+    country: str = Field(max_length=5, default=None)
+    viewability: str = Field(max_length=20, default=None)
+    textToSpeechPermission: str = Field(max_length=30, default=None)
     epub: Optional[EPub] = None
     pdf: Optional[PDF] = None
 
 
+MAX_AUTHOR_LEN = Annotated[str, Field(max_length=60)]
+MAX_CATEGORY_LEN = Annotated[str, Field(max_length=60)]
+
 class VolumeInfo(BaseModel):
-    title: str
-    subtitle: Optional[str] = None
-    authors: Optional[List[str]] = None
-    publisher: Optional[str] = None
+    title: str = Field(max_length=200)
+    subtitle: Optional[str] = Field(max_length=200, default=None)
+    authors: Optional[List[MAX_AUTHOR_LEN]] = None
+    publisher: Optional[str] = Field(max_length=100, default=None)
     publishedDate: Optional[InitializedDate] = None
     industryIdentifiers: Optional[List[IndustryIdentifier]] = None
-    readingModes: Optional[ReadingModes] = None
     pageCount: Optional[int] = None
-    categories: Optional[List[str]] = None
-    maturityRating: Optional[str] = None
-    language: Optional[str] = None
+    categories: Optional[List[MAX_CATEGORY_LEN]] = None
+    averageRating: Optional[float] = None
+    ratingsCount: Optional[int] = None
+    maturityRating: Optional[str] = Field(max_length=30, default=None)
+    language: Optional[str] = Field(max_length=5, default=None)
 
 
 class Volume(BaseModel):
@@ -90,30 +88,6 @@ class Volume(BaseModel):
     saleInfo: Optional[SaleInfo] = None
     accessInfo: Optional[AccessInfo] = None
 
-
-def get_latest_dir(input_keyword_dir: Path) -> Path:
-    """
-
-    Args:
-        input_keyword_dir: Path to the keyword directory in the input directory.
-
-    Returns:
-        Path to the latest date directory in the keyword directory.
-    """
-    date_fmt = '%Y-%m-%d'
-    latest_date = date(datetime.MINYEAR, 1, 1)
-
-    for item in input_keyword_dir.iterdir():
-        dir_date = datetime.datetime.strptime(item.name, date_fmt).date()
-        latest_date = max(latest_date, dir_date)
-
-    # If no folders in the keyword folder
-    if latest_date == date(datetime.MINYEAR, 1, 1):
-        keyword_dir = input_keyword_dir.name
-        logger.error(f'No directories in {keyword_dir} directory.')
-        raise MissingDirectoriesException(keyword_dir)
-
-    return Path(latest_date.strftime(date_fmt))
 
 def _write_data(latest_output_dir: Path, validated_records: List[str]) -> None:
     # write list of json strings into output_0.json in latest_output_dir
@@ -196,7 +170,8 @@ class ValidationManager:
         validated_records = self._validate_directory(latest_input_dir)
         _write_data(latest_output_dir, validated_records)
 
-def validate_keywords(keywords: list[str], input_dir: str,  output_dir: str, min_percent: int) -> None:
+
+def validate_keywords(keywords: list[str], input_dir: str, output_dir: str, min_percent: int) -> None:
     """
     Generates GoogleBooksClient and pulls data for each keyword.
 
