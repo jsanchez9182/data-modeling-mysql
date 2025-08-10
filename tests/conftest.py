@@ -1,8 +1,15 @@
+import os
+import shutil
 import time
 import pytest
 import requests
 from unittest.mock import Mock
+
+from sqlalchemy import create_engine
+from sqlalchemy_utils import database_exists, create_database, drop_database
+
 from bookmodeling.api_request import GoogleBooksClient
+from bookmodeling.db_models import Base
 
 
 class ValidMockResponse:
@@ -188,3 +195,53 @@ def client(freezer, monkeypatch, tmp_path):
 
     output_dir = str(tmp_path) + '/raw_data'
     return GoogleBooksClient('flowers', 0, 2, 2, output_dir)
+
+
+@pytest.fixture
+def raw_data_sample(tmp_path):
+    input_folder = 'raw_data_sample'
+    input_folder_loc = 'tests' + '/' + input_folder
+    path = tmp_path / input_folder
+    shutil.copytree(input_folder_loc, path, dirs_exist_ok=True)
+
+    return path
+
+@pytest.fixture
+def validated_data(tmp_path):
+    input_folder = 'validation_output'
+    input_folder_loc = 'tests' + '/' + input_folder
+    path = tmp_path / input_folder
+    shutil.copytree(input_folder_loc, path, dirs_exist_ok=True)
+
+    return path
+
+@pytest.fixture
+def engine():
+    engine = create_engine(os.environ.get('DB_URL'))
+    yield engine
+    engine.dispose()
+
+
+@pytest.fixture
+def create_db(engine):
+    if not database_exists(engine.url):
+        create_database(engine.url)
+
+    yield
+    drop_database(engine.url)
+
+
+@pytest.fixture
+def create_tables(engine, create_db):
+    Base.metadata.create_all(engine)
+    yield
+    Base.metadata.drop_all(engine)
+
+
+@pytest.fixture
+def conn(engine, create_tables):
+    connection = engine.connect()
+
+    yield connection
+
+    connection.close()

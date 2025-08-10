@@ -25,6 +25,7 @@ class GoogleBooksClient:
         self._end_index = end_index
         self._max_results = max_results
         self._output_dir = output_dir
+        self._date_today = date.today().isoformat()
 
     def _get_response(self) -> requests.Response:
         # Returns response from Google Books API
@@ -40,7 +41,7 @@ class GoogleBooksClient:
         """
         Returns: Path with output destination.
         """
-        return Path(f'{self._output_dir}/{self._keyword}/{date.today().isoformat()}/start_index_{self._start_index}.json')
+        return Path(f'{self._output_dir}/{self._keyword}/{self._date_today}/start_index_{self._start_index}.json')
 
 
     def _handle_response(self, response: requests.Response) -> None:

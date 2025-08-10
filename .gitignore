@@ -1,1 +1,4 @@
-/.idea
+.idea
+raw_data
+validated_data
+.env
