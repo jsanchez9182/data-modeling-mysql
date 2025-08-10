@@ -19,14 +19,12 @@
           "identifier": "3791374648"
         }
       ],
-      "readingModes": {
-        "text": true,
-        "image": false
-      },
       "pageCount": 0,
       "categories": [
         "Juvenile Fiction"
       ],
+      "averageRating": null,
+      "ratingsCount": null,
       "maturityRating": "NOT_MATURE",
       "language": "en"
     },
@@ -69,14 +67,12 @@
           "identifier": "1466875372"
         }
       ],
-      "readingModes": {
-        "text": true,
-        "image": true
-      },
       "pageCount": 40,
       "categories": [
         "Juvenile Fiction"
       ],
+      "averageRating": null,
+      "ratingsCount": null,
       "maturityRating": "NOT_MATURE",
       "language": "en"
     },
@@ -85,12 +81,10 @@
       "saleability": "FOR_SALE",
       "isEbook": true,
       "listPrice": {
-        "amount": "14.99",
-        "currencyCode": "USD"
+        "amount": "14.99"
       },
       "retailPrice": {
-        "amount": "14.99",
-        "currencyCode": "USD"
+        "amount": "14.99"
       }
     },
     "accessInfo": {
