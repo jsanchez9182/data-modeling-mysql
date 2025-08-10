@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Af_aMKNJ2oEC",
+    "volumeInfo": {
+      "title": "The Complete Guide to Everything Romantic",
+      "subtitle": "A Book for Lovers",
+      "authors": [
+        "Michael Newman"
+      ],
+      "publisher": "Carol Publishing Corporation",
+      "publishedDate": "1995-01-01",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0806515473"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780806515472"
+        }
+      ],
+      "pageCount": 248,
+      "categories": [
+        "Family & Relationships"
+      ],
+      "averageRating": null,
+      "ratingsCount": null,
+      "maturityRating": "MATURE",
+      "language": "en"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false,
+      "listPrice": null,
+      "retailPrice": null
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "NO_PAGES",
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      }
+    }
+  },
+  {
+    "id": "4OfeCgAAQBAJ",
+    "volumeInfo": {
+      "title": "1001 Ways to Be Romantic",
+      "subtitle": null,
+      "authors": [
+        "Michael Newman"
+      ],
+      "publisher": "Sourcebooks, Inc.",
+      "publishedDate": "2010-01-01",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781402244094"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1402244096"
+        }
+      ],
+      "pageCount": 456,
+      "categories": [
+        "Family & Relationships"
+      ],
+      "averageRating": 3.7,
+      "ratingsCount": 10,
+      "maturityRating": "NOT_MATURE",
+      "language": "en"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": false,
+      "listPrice": {
+        "amount": "5.00"
+      },
+      "retailPrice": {
+        "amount": "5.00"
+      }
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true
+      },
+      "pdf": {
+        "isAvailable": true
+      }
+    }
+  }
+]
