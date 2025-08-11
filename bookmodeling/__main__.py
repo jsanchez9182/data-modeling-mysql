@@ -22,6 +22,6 @@ def main():
         'thrilling'
     ]
 
-    search_google_keywords(keywords, 1, 40, 'raw_data')
+    search_google_keywords(keywords, 10, 40, 'raw_data')
     validate_keywords(keywords, 'raw_data', 'validated_data', 70)
     load_data(keywords, 'validated_data')

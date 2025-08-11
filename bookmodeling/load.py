@@ -226,6 +226,7 @@ def _process_data(conn: sqlalchemy.Connection, data_list: List[Dict[str, Any]], 
         # Add book record for it
 
     new_books = []
+    new_book_ids = set()
     author_set = set()
     category_set = set()
     industry_identifiers = []
@@ -235,7 +236,7 @@ def _process_data(conn: sqlalchemy.Connection, data_list: List[Dict[str, Any]], 
 
     existing_books = _get_existing_books(conn, data_list)
     for book_info in data_list:
-        if book_info['id'] not in existing_books:
+        if book_info['id'] not in existing_books and book_info['id'] not in new_book_ids:
             authors = book_info['volumeInfo']['authors']
             categories = book_info['volumeInfo']['categories']
 
@@ -246,8 +247,8 @@ def _process_data(conn: sqlalchemy.Connection, data_list: List[Dict[str, Any]], 
                 category_set.update(categories)
             industry_identifiers.extend(_get_identifiers(book_info))
 
-            # handle duplicate books.
-            existing_books.add(book_info['id'])
+            # Handle duplicate books.
+            new_book_ids.add(book_info['id'])
 
     if new_books:
         _load_books(conn, new_books)
@@ -262,9 +263,10 @@ def _process_data(conn: sqlalchemy.Connection, data_list: List[Dict[str, Any]], 
     category_dict = _get_category_dict(conn, category_set)
 
     for book_info in data_list:
-        if book_info['id'] not in existing_books:
+        if book_info['id'] in new_book_ids:
             book_author_list.extend(_get_book_authors(book_info, author_dict))
             book_category_list.extend(_get_book_categories(book_info, category_dict))
+            new_book_ids.remove(book_info['id'])
 
         book_records.append(_get_record_dict(book_info, record_date))
 
@@ -275,9 +277,6 @@ def _process_data(conn: sqlalchemy.Connection, data_list: List[Dict[str, Any]], 
         _load_book_categories(conn, book_category_list)
 
     conn.commit()
-
-
-
 
 
 def _process_files(conn: sqlalchemy.Connection, latest_keyword_dir: Path) -> None:
